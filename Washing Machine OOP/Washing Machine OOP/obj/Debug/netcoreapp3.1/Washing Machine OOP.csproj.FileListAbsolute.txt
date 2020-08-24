@@ -1,0 +1,11 @@
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\bin\Debug\netcoreapp3.1\Washing Machine OOP.exe
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\bin\Debug\netcoreapp3.1\Washing Machine OOP.deps.json
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\bin\Debug\netcoreapp3.1\Washing Machine OOP.runtimeconfig.json
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\bin\Debug\netcoreapp3.1\Washing Machine OOP.runtimeconfig.dev.json
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\bin\Debug\netcoreapp3.1\Washing Machine OOP.dll
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\bin\Debug\netcoreapp3.1\Washing Machine OOP.pdb
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\obj\Debug\netcoreapp3.1\Washing Machine OOP.csprojAssemblyReference.cache
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\obj\Debug\netcoreapp3.1\Washing Machine OOP.AssemblyInfoInputs.cache
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\obj\Debug\netcoreapp3.1\Washing Machine OOP.AssemblyInfo.cs
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\obj\Debug\netcoreapp3.1\Washing Machine OOP.dll
+C:\Users\Proed\source\repos\Washing Machine OOP\Washing Machine OOP\obj\Debug\netcoreapp3.1\Washing Machine OOP.pdb
